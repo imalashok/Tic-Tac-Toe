@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert to byte array/Problems-Convert_to_byte_array.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert to byte array/Problems-Convert_to_byte_array.iml" group="Tic-Tac-Toe/Problems-Convert_to_byte_array" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert to byte array/Problems-Convert_to_byte_array_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert to byte array/Problems-Convert_to_byte_array_main.iml" group="Tic-Tac-Toe/Problems-Convert_to_byte_array" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert to byte array/Problems-Convert_to_byte_array_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert to byte array/Problems-Convert_to_byte_array_test.iml" group="Tic-Tac-Toe/Problems-Convert_to_byte_array" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Maximum element in a matrix/Problems-Maximum_element_in_a_matrix.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Maximum element in a matrix/Problems-Maximum_element_in_a_matrix.iml" group="Tic-Tac-Toe/Problems-Maximum_element_in_a_matrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Maximum element in a matrix/Problems-Maximum_element_in_a_matrix_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Maximum element in a matrix/Problems-Maximum_element_in_a_matrix_main.iml" group="Tic-Tac-Toe/Problems-Maximum_element_in_a_matrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Maximum element in a matrix/Problems-Maximum_element_in_a_matrix_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Maximum element in a matrix/Problems-Maximum_element_in_a_matrix_test.iml" group="Tic-Tac-Toe/Problems-Maximum_element_in_a_matrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" group="Tic-Tac-Toe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_main.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_test.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Tic-Tac-Toe/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Tic-Tac-Toe/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Tic-Tac-Toe/util" />
+    </modules>
+  </component>
+</project>

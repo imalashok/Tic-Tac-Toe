@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Problems/Maximum element in a matrix/out/
+/Problems/Maximum element in a matrix/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
